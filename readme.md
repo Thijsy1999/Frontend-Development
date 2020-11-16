@@ -81,5 +81,5 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina2deel1.png" width="375px" alt="homepagina">
-<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina2deel2.png" width="375px" alt="homepagina">
+<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina2deel1.png" width="375px" alt="music page">
+<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina2deel2.png" width="375px" alt="music page">
