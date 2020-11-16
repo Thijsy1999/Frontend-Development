@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Thijs Berrevoets-202-500831880
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -77,9 +77,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina 1.png" width="375px" alt="homepagina">
+<img src="Images\pagina 1.png" width="375px" alt="homepagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina2deel1.png" width="375px" alt="music page">
-<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina2deel2.png" width="375px" alt="music page">
+<img src="Images\pagina2deel1.png" width="375px" alt="music page">
+<img src="Images\pagina2deel2.png" width="375px" alt="music page">
