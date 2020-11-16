@@ -77,8 +77,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina 1.png" width="375px" alt="homepagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina2deel1.png" width="375px" alt="homepagina">
+<img src="D:\HVA\Jaar 2 HVA\Blok 2\Frontend Developtment\pagina2deel2.png" width="375px" alt="homepagina">
