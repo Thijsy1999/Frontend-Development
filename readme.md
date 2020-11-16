@@ -62,8 +62,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
-<img src="images\breakdownschets1.png" width="375px" alt="music page">
-<img src="images\breakdownschets2.png" width="375px" alt="music page">
+<img src="images\breakdownschets1.png" width="300px" alt="music page">
+<img src="images\breakdownschets2.png" width="300px" alt="music page">
 
 
 
