@@ -11,7 +11,8 @@
 6. https://www.machinegunkelly.com/ (Inspecteren van elementen)
 7. https://codepen.io/shooft/pen/qBZPdGm Flexbox
 8. https://codepen.io/shooft/pen/BaKGKwm Navigatie Balk
-9. https://fonts.google.com/
+9. https://codepen.io/anna_blok/pen/eYYRbQY Slider
+10. https://fonts.google.com/
 
 
 
