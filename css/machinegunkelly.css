@@ -1,0 +1,374 @@
+html{
+  background: white;
+  text-align: center;
+  display: block;
+}
+
+body {
+  padding-bottom: 0;
+}
+
+header {
+  padding:0 .75em;
+  background-color:white;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  width: 100%;
+  z-index: 100;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+a {
+  background-color: transparent;
+  color: #111;
+  text-decoration: none;
+  line-height: inherit;
+  cursor: pointer;
+}
+/* alle links in de header */
+header a {
+  color:black;
+  text-decoration:none;
+}
+
+header > a:first-of-type {
+  padding:.5em;
+  line-height:1;
+  font-weight:bold;
+  display:grid;
+  grid-template-columns:min-content min-content;
+  grid-gap:.25em;
+  align-items:center;
+}
+
+header > a:first-of-type img {
+  height:3em;
+  align-items: center;
+  display: block;
+  position: static;
+}
+
+header .socials {
+  display:block;
+  height:2.5em;
+  font-size:1em;
+  line-height:2.5em;
+  text-align:center;
+  border-radius:.25em;
+  margin-right: 1em;
+}
+/************/
+/* HET MENU */
+/************/
+nav {
+  order:-1;
+}
+
+/***************/
+/* menu button */
+/***************/
+nav button {
+  position:relative;
+  font-size:2em;
+  border:none;
+  border-radius:.25em;
+  appearance:none;
+  cursor:pointer;
+  background-color: white;
+  z-index:100;
+}
+
+nav button::before {
+  content:"\2630 ";
+  display:inline-block;
+  width:1.5em;
+  transform:scale(1);
+  margin: 0;
+  background-color:white;
+}
+
+nav.toonMenu  button::before {
+  content:"\274C";
+  width:1.5em;
+  background-color: white;
+  display:inline-block;
+  transform:scale(1.3);
+  margin: 0;
+
+
+}
+
+nav ul {
+  color:black;
+  margin:0;
+  padding:4em 0 0;
+  background:white ;
+  list-style:none;
+  position:fixed;
+  left:0; right:0; top:0; bottom:0;
+  transform:translatex(-100%);
+  transition:.5s;
+  z-index:50;
+}
+
+nav.toonMenu ul {
+  transform:translatex(0);
+  text-align: left;
+  margin-right: 55%;
+  padding-top: 10em;
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 500;
+  color: white;
+  background-color: white;
+/*   background:rgba(black, 0.5);  zwarte background moet half doorzichtig zijn en tekst moet wit */
+}
+
+li {
+  margin:0; padding:0;
+}
+
+li a {
+  display:block;
+  padding:1em 1em 1em 3.5em;
+  /* de meeste background properties zijn voor alle links gelijk */
+  background-size:auto 2em;
+  background-position:1em center;
+  background-repeat:no-repeat;
+}
+
+li.active a {
+  font-weight:bold;
+}
+
+@media (min-width:64em) {
+  nav {
+    order:0;
+  }
+
+  nav button {
+    display:none;
+  }
+
+  nav ul {
+    position:relative;
+    padding:0;
+    transform:none;
+    background:none;
+    display:flex;
+  }
+
+  nav a {
+    border:none;
+  }
+.logo{
+  border: 0;
+}
+}
+.komtnog{
+  height: 100%;
+  width: 100%;
+}
+
+.listennow BUTTOOOOON!!!!!!!{
+  width: 235px;
+  height: 53px;
+  padding: 2px 10px 0;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-transform: uppercase;
+  color: #000;
+  font-size: 16px;
+  font-weight: 700;
+  background: 0 0;
+  z-index: 1;
+  border-radius: 25px;
+  position: relative;
+  transition: .3s ease-in-out all;
+  border: 2px solid #000;
+  letter-spacing: 0;
+  overflow: hidden;
+  margin: auto;
+}
+.Header2{
+  width: 100%;
+  padding: 0 0 10px;
+  line-height: 1;
+  font-size: 25.45px;
+  letter-spacing: 5px;
+  text-indent: 5px;
+  padding: 0px 0px 10px;
+  animation: fade .8s ease-in-out 1 forwards;
+  animation-delay: .5s;
+  justify-content:space-between;
+}
+h2{
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 300;
+}
+
+.images{
+  border: 0;
+  backface-visibility: hidden;
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+  box-shadow: 5px 5px 5px #ccc;
+      -moz-box-shadow: 5px 5px 5px #ccc;
+      -webkit-box-shadow: 5px 5px 5px #ccc;
+      -khtml-box-shadow: 5px 5px 5px #ccc;
+}
+.producten{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.tekstproduct{
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 16px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 4em;
+  padding-top: 1.1em;
+}
+.tekstproduct1{
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 16px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 2.5em;
+  padding-top: 1.1em;
+}
+
+.zwartetekst{
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 600;
+  padding-bottom: .2em;
+}
+
+.allemerch{
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 1.12em;
+  font-weight: 600;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  margin: 0 auto;
+  text-transform: capitalize;
+  text-decoration: underline;
+  padding-bottom: 13px;
+}
+
+.muzieksliderplaatjes{
+  width: 300px;
+  height: 300px;
+}
+
+/* SLIDERRR (bezig met eigen maken) https://codepen.io/mayurbirle/pen/eEevBZ/ */
+
+#i1, #i2, #i3, #i4, #i5, #i6{ display: none;}
+
+.container{
+		margin: 0 auto;
+		margin-top: 20px;
+		position: relative;
+		width: 300px;
+		height: 300px;
+	  user-select: none;
+
+	}
+
+	.container .slide_img{
+		position: absolute;
+		width: 300px;
+		height: 300px;
+	}
+	.container .slide_img img{
+		width: inherit;
+		height: inherit;
+	}
+
+	 .prev, .next{
+		width: 12%;
+		height: inherit;
+		position: absolute;
+		top:0
+		z-index: 99;
+		transition: 0.3s;
+		cursor: pointer;
+		text-align: center;
+	}
+
+	.next{right:0;}
+	.prev{left:0;}
+
+	label span{
+		position: absolute;
+		font-size: 75pt;
+		top: 0%;
+    left: 25%;
+	 	transform: translateY(250%);
+    color: black;
+	}
+
+	.prev:hover, .next:hover{
+		transition: 0s;
+		background-color: rgba(88, 88, 89,.8);
+		color: #ffffff;
+	}
+
+.container #nav_slide{
+	width: 100%;
+	bottom: 12%;
+	height: 11px;
+	position: absolute;
+	text-align: center;
+	z-index: 99;
+	cursor: default;
+}
+
+.slide_img{z-index: -1;}
+
+	#i1:checked ~ #one  ,
+	#i2:checked ~ #two  ,
+	#i3:checked ~ #three,
+	#i4:checked ~ #four ,
+  #i5:checked ~ #five ,
+	#i6:checked ~ #six
+	{z-index: 9; animation: scroll 1s ease-in-out;}
+
+	#i1:checked  ~  #nav_slide #dot1,
+	#i2:checked  ~  #nav_slide #dot2,
+	#i3:checked  ~  #nav_slide #dot3,
+	#i4:checked  ~  #nav_slide #dot4,
+	#i5:checked  ~  #nav_slide #dot5,
+  #i6:checked  ~  #nav_slide #dot6
+	{ background-color: rgba(255,255,255,.9);}
+
+@keyframes scroll{
+	100%{opacity:1;}
+}
+
+@media screen and (max-width: 300px){
+	.container{
+		border: none;
+		width: 100%;
+		height: 0;
+		padding-bottom: 55%;
+	}
+
+	label span { font-size: 50pt; }
+
+	.prev, .next{
+		width: 15%;
+	}
+
+}
+@media screen  and(min-width: 970px){
+	.me{ display: none;}
+}
