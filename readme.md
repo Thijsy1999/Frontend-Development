@@ -6,9 +6,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://www.w3schools.com/
+2. https://www.htmlsymbols.xyz
+3. https://stackoverflow.com/
+4. https://www.youtube.com/
+5. https://css-tricks.com/
+6. https://www.machinegunkelly.com/ (Inspecteren van elementen)
+7. https://codepen.io/shooft/pen/qBZPdGm Flexbox
+8. https://codepen.io/shooft/pen/BaKGKwm Navigatie Balk
+9. https://fonts.google.com/
 
 
 
