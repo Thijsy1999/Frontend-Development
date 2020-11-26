@@ -38,7 +38,7 @@
 
 
 
-## Voortgang 1 (week 3)    AFMETING MOBIEL SCHERM EERSTE VERSIE : 597 - 882
+## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
@@ -47,7 +47,7 @@ Het was lastig ergens te beginnen en dan vervolgens duidelijk een structuur te v
 Gelukkig kon ik genoeg bronnen vinden online die me op weg hielpen (en om mijn codeer brein een beetje te verfrissen).
 
 **Screenshot(s):**
-*Alles wat je ziet is op mobiel formaat gemaakt en weergegeven*
+*Alles wat je ziet is op mobiel formaat gemaakt en weergegeven*    *afmeting gebruikt voor het maken: 572 - 882*
 
 Hierbij mijn voortgang in week 3 met screenshots weergegeven: 
 
