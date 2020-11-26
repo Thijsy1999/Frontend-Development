@@ -38,7 +38,7 @@
 
 
 
-## Voortgang 1 (week 3)
+## Voortgang 1 (week 3)    AFMETING MOBIEL SCHERM EERSTE VERSIE : 597 - 882
 
 ### Stand van zaken
 
