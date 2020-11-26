@@ -54,9 +54,9 @@
 
 | Thijs               | Rosan               | Zahra               | Luca             |
 | ---                 | ---                 | ---                 | ---              |
-| - eerste afbeelding waar vind ik die?     | - hamburger menu?   | - films horizontale | en dan ik dat    |
-|                     | dit als er tijd is  | scrollbar           | dit wil ik zeker |
-| - Hamburger menu. word mn tekst wit. achtergrond zwart lukt me.   | ...                 | - hamburger menu?   | ...              |
+| - eerste afbeelding waar vind ik die?     | - hamburger menu?   | - films horizontale scrollbar  |     |
+| - Hamburger menu. word mn tekst wit. achtergrond zwart lukt me.                    |   |           |  |
+|    | ...                 | - hamburger menu?   | ...              |
 
 
 ### Verslag van meeting
