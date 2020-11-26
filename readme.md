@@ -42,15 +42,24 @@
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Goed ging alle producten onder elkaar zetten. Dat was ook leuk om te doen omdat het zo identiek lijkt op het originele. Wat minder ging was het opstarten met de site.
+Het was lastig ergens te beginnen en dan vervolgens duidelijk een structuur te vinden en aan te houden. Het lukte, maar het duurde even voordat het even op gang kwam.
+Gelukkig kon ik genoeg bronnen vinden online die me op weg hielpen (en om mijn codeer brein een beetje te verfrissen).
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+Hierbij mijn voortgang in week 3 met screenshots weergegeven:
+
+<img src="fotos voortgangsgesprek 1 (week3)\foto1.png" width="300px" alt="music page">
+<img src="fotos voortgangsgesprek 1 (week3)\foto2.png" width="300px" alt="music page">
+<img src="fotos voortgangsgesprek 1 (week3)\foto3.png" width="300px" alt="music page">
+<img src="fotos voortgangsgesprek 1 (week3)\foto4.png" width="300px" alt="music page">
+<img src="fotos voortgangsgesprek 1 (week3)\foto5.png" width="300px" alt="music page">
+<img src="fotos voortgangsgesprek 1 (week3)\foto6.png" width="300px" alt="music page">
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+12:30 - 26/11/2020 bij elkaar gekomen op Teams
 
 | Thijs                                                               | Rosan               | Zahra                         | Luca             |
 | ---                                                                 | ---                 | ---                           | ---              |
