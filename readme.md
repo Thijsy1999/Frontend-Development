@@ -78,7 +78,12 @@ En hier ben ik nog bezig met het maken van de slider. Tot hier was ik gebleven.
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ik kreeg te horen dat ik al erg flink op weg ben. Zeker omdat mijn navigatie al goed werkte. Ik kon gelukkig met hulp van de studentassistentes de afbeelding vinden die ik nodig had. Dit zorgt er weer voor dat ik weer verder kan werken. Daarnaast kreeg ik nog een tip om misschien met svg. animaties wat meer te doen in mijn navigatie.
+(https://css-tricks.com/svg-shape-morphing-works/) 
+
+Ook misschien leuk om handig om de eerste grote foto die je ziet op de website responsive te maken. Als in, de grootte veranderd elke keer mee. Uitdaging voor mijzelf.
+
+*En flexbox is handig om goed te gebruiken, zeker als het responsive moet zijn en producten vallen naast elkaar i.p.v. onder elkaar.*
 
 
 
