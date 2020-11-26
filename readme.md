@@ -57,10 +57,10 @@ Hier ben ik met de nav bezig geweest. Hamburger menu staat er al en is responsiv
 <img src="fotos voortgangsgesprek 1 (week3)\foto2.png" width="300px" alt="music page"> 
 Hier zie je de nav uitgevouwen. Ik moet deze nog even zwart maken in de toekomst en de tekst weer wit. Heb ik even opengelaten omdat ik de tekst niet wit kreeg. Veel code maakt ook onduidelijkheid. De fonts toepassen op de website is gelukt zoals je ziet. 
 
-Hier zie je de producten die ik onder elkaar heb uitgelijnd.
+Hier zie je de producten die ik onder elkaar heb uitgelijnd.                           <br>
 <img src="fotos voortgangsgesprek 1 (week3)\foto3.png" width="300px" alt="music page"> <br>
 <img src="fotos voortgangsgesprek 1 (week3)\foto4.png" width="300px" alt="music page"> <br>
-Sommige plaatjes bewegen ook! (gifs)
+Sommige plaatjes bewegen ook! (gifs)                                                   <br>
 <img src="fotos voortgangsgesprek 1 (week3)\foto5.png" width="300px" alt="music page"> <br>
 <img src="fotos voortgangsgesprek 1 (week3)\foto6.png" width="300px" alt="music page"> <br>
 En hier ben ik nog bezig met het maken van de slider. Tot hier was ik gebleven.
