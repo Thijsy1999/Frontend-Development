@@ -47,15 +47,16 @@ Het was lastig ergens te beginnen en dan vervolgens duidelijk een structuur te v
 Gelukkig kon ik genoeg bronnen vinden online die me op weg hielpen (en om mijn codeer brein een beetje te verfrissen).
 
 **Screenshot(s):**
+*Alles wat je ziet is op mobiel formaat gemaakt en weergegeven*
 
-Hierbij mijn voortgang in week 3 met screenshots weergegeven:
+Hierbij mijn voortgang in week 3 met screenshots weergegeven: 
 
-<img src="fotos voortgangsgesprek 1 (week3)\foto1.png" width="300px" alt="music page">
-<img src="fotos voortgangsgesprek 1 (week3)\foto2.png" width="300px" alt="music page">
-<img src="fotos voortgangsgesprek 1 (week3)\foto3.png" width="300px" alt="music page">
-<img src="fotos voortgangsgesprek 1 (week3)\foto4.png" width="300px" alt="music page">
-<img src="fotos voortgangsgesprek 1 (week3)\foto5.png" width="300px" alt="music page">
-<img src="fotos voortgangsgesprek 1 (week3)\foto6.png" width="300px" alt="music page">
+<img src="fotos voortgangsgesprek 1 (week3)\foto1.png" width="300px" alt="music page"> Hier ben ik met de nav bezig geweest. Hamburger menu staat er al en is responsive. Moet alles nog even goed uitlijnen. Maar al dat soort final touches komen op het einde als ik ga finetunen. Kreeg helaas niet de grote foto voorop de site te pakken dus heb even tijdelijk een placeholder image neergezet.
+<img src="fotos voortgangsgesprek 1 (week3)\foto2.png" width="300px" alt="music page"> Hier zie je de nav uitgevouwen. Ik moet deze nog even zwart maken in de toekomst en de tekst weer wit. Heb ik even opengelaten omdat ik de tekst niet wit kreeg. Veel code maakt ook onduidelijkheid. De fonts toepassen op de website is gelukt zoals je ziet. 
+<img src="fotos voortgangsgesprek 1 (week3)\foto3.png" width="300px" alt="music page"> Hier zie je de producten die ik onder elkaar heb uitgelijnd.
+<img src="fotos voortgangsgesprek 1 (week3)\foto4.png" width="300px" alt="music page"> 
+<img src="fotos voortgangsgesprek 1 (week3)\foto5.png" width="300px" alt="music page"> Sommige plaatjes bewegen ook! (gifs)
+<img src="fotos voortgangsgesprek 1 (week3)\foto6.png" width="300px" alt="music page"> En hier ben ik nog bezig met het maken van de slider. Tot hier was ik gebleven.
 
 ### Agenda voor meeting
 
