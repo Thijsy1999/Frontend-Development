@@ -56,9 +56,8 @@
 | ---                 | ---                 | ---                 | ---              |
 | - eerste afbeelding waar vind ik die?     | - hamburger menu?   | - films horizontale | en dan ik dat    |
 |                     | dit als er tijd is  | scrollbar           | dit wil ik zeker |
-| - Hamburger - hoe   | ...                 | - hamburger menu?   | ...              |
-word mn tekst wit.
-achtergrond zwart lukt me.
+| - Hamburger menu. word mn tekst wit. achtergrond zwart lukt me.   | ...                 | - hamburger menu?   | ...              |
+
 
 ### Verslag van meeting
 
