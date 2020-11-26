@@ -55,7 +55,7 @@
 | Thijs               | Rosan               | Zahra               | Luca             |
 | ---                 | ---                 | ---                 | ---              |
 | - eerste afbeelding waar vind ik die?     | - hamburger menu?   | - films horizontale scrollbar  |     |
-| - Hamburger menu. word mn tekst wit. achtergrond zwart lukt me.                    |   |           |  |
+| - Hamburger menu. Hoe word mn tekst wit. achtergrond zwart lukt me.                    |   |           |  |
 |    | ...                 | - hamburger menu?   | ...              |
 
 
