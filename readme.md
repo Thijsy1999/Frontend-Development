@@ -54,8 +54,8 @@
 
 | Thijs               | Rosan               | Zahra               | Luca             |
 | ---                 | ---                 | ---                 | ---              |
-| - eerste afbeeldin  | - hamburger menu?   | - films horizontale | en dan ik dat    |
-| waar vind ik die?   | dit als er tijd is  | scrollbar           | dit wil ik zeker |
+| - eerste afbeelding waar vind ik die?     | - hamburger menu?   | - films horizontale | en dan ik dat    |
+|                     | dit als er tijd is  | scrollbar           | dit wil ik zeker |
 | - Hamburger - hoe   | ...                 | - hamburger menu?   | ...              |
 word mn tekst wit.
 achtergrond zwart lukt me.
