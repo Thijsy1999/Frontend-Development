@@ -52,11 +52,11 @@
 
 -samen met je groepje opstellen-
 
-| Thijs               | Rosan               | Zahra               | Luca             |
-| ---                 | ---                 | ---                 | ---              |
-| - eerste afbeelding waar vind ik die?     | - hamburger menu?   | - films horizontale scrollbar  |     |
-| - Hamburger menu. Hoe word mn tekst wit. achtergrond zwart lukt me.                    |   |           |  |
-|    | ...                 | - hamburger menu?   | ...              |
+| Thijs                                                               | Rosan               | Zahra                         | Luca             |
+| ---                                                                 | ---                 | ---                           | ---              |
+| - eerste afbeelding waar vind ik die?                               | - hamburger menu?   | - films horizontale scrollbar |                  |
+| - Hamburger menu. Hoe word mn tekst wit. achtergrond zwart lukt me. |                     |                               |                  |
+|                                                                     | ...                 | - hamburger menu?             | ...              |
 
 
 ### Verslag van meeting
