@@ -67,7 +67,8 @@ En hier ben ik nog bezig met het maken van de slider. Tot hier was ik gebleven.
 
 ### Agenda voor meeting
 
-12:30 - 26/11/2020 bij elkaar gekomen op Teams
+12:30 - 26/11/2020 bij elkaar gekomen op Teams met mijn groepje om te kijken hoever ieder was en gezamenlijk aandachtpunten verzameld voor het gesprek.
+14:45 - 26/11/2020 bij elkaar gekomen op Teams met mijn groepje en de student-assistentes om te kijken hoe ver ieder was. En daarbij gezamenlijk de aandachtspunten behandeld en verdere tips en tricks meegekregen.
 
 | Thijs                                                               | Rosan               | Zahra                         | Luca             |
 | ---                                                                 | ---                 | ---                           | ---              |
@@ -78,7 +79,7 @@ En hier ben ik nog bezig met het maken van de slider. Tot hier was ik gebleven.
 
 ### Verslag van meeting
 
-Ik kreeg te horen dat ik al erg flink op weg ben. Zeker omdat mijn navigatie al goed werkte. Ik kon gelukkig met hulp van de studentassistentes de afbeelding vinden die ik nodig had. Dit zorgt er weer voor dat ik weer verder kan werken. Daarnaast kreeg ik nog een tip om misschien met svg. animaties wat meer te doen in mijn navigatie.
+Ik kreeg te horen dat ik al erg flink op weg ben. Zeker omdat mijn navigatie al goed werkte. Ik kon gelukkig met hulp van de student-assistentes de afbeelding vinden die ik nodig had. Dit zorgt er weer voor dat ik weer verder kan werken. Daarnaast kreeg ik nog een tip om misschien met svg. animaties wat meer te doen in mijn navigatie.
 (https://css-tricks.com/svg-shape-morphing-works/) 
 
 Ook misschien leuk om handig om de eerste grote foto die je ziet op de website responsive te maken. Als in, de grootte veranderd elke keer mee. Uitdaging voor mijzelf.
