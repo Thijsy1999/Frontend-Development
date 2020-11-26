@@ -59,10 +59,10 @@ Hier zie je de nav uitgevouwen. Ik moet deze nog even zwart maken in de toekomst
 
 Hier zie je de producten die ik onder elkaar heb uitgelijnd.
 <img src="fotos voortgangsgesprek 1 (week3)\foto3.png" width="300px" alt="music page"> 
-<img src="fotos voortgangsgesprek 1 (week3)\foto4.png" width="300px" alt="music page"> 
+<img src="fotos voortgangsgesprek 1 (week3)\foto4.png" width="300px" alt="music page"> <br>
 Sommige plaatjes bewegen ook! (gifs)
 <img src="fotos voortgangsgesprek 1 (week3)\foto5.png" width="300px" alt="music page">
-<img src="fotos voortgangsgesprek 1 (week3)\foto6.png" width="300px" alt="music page"> 
+<img src="fotos voortgangsgesprek 1 (week3)\foto6.png" width="300px" alt="music page"> <br>
 En hier ben ik nog bezig met het maken van de slider. Tot hier was ik gebleven.
 
 ### Agenda voor meeting
