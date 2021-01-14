@@ -23,20 +23,28 @@
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+Homepage:
+homepage foto scherm met button
+<img src="fotos voortgangsgesprek 1 (week3)\foto3.png" width="300px" alt="music page"> <br>
+<img src="fotos voortgangsgesprek 1 (week3)\foto4.png" width="300px" alt="music page"> <br>                                     
+<img src="fotos voortgangsgesprek 1 (week3)\foto5.png" width="300px" alt="music page"> <br>
+<img src="fotos voortgangsgesprek 1 (week3)\foto6.png" width="300px" alt="music page"> <br>
+footer foto
+
+Music page:
+
 
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Hier geld hetzelfde net als bij voortgang 2, maar dan besproken met de studentassistentes
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
-
+Voortgang week 5 was vooral voor ons allen een headsup over hoe druk we het hebben en met de hulp van de docent hebben we een planning kunnen maken voor ons zelf. En hierbij een goed overzicht kunnen creëeren voor het te kunnen behalen van dit vak.
 
 
 ## Voortgang 1 (week 3)
@@ -101,7 +109,7 @@ Ook misschien leuk om handig om de eerste grote foto die je ziet op de website r
 
 **Je startniveau:** rood
 
-**Je focus:** responsive 
+**Je focus:** Responsive had ik eerst voor ogen, maar ben later in het proces toch naar Surface geswitched 
 
 **Je opdracht:** https://www.machinegunkelly.com/
 
