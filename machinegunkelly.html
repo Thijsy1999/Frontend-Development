@@ -16,27 +16,28 @@
     <!-- met aria-hidden="true" 'verstop' je de button voor ze -->
     <button aria-hidden="true"></button>
     <ul>
-      <li class="active"><a>Music</a></li>
+      <li class="active"><a href="mgkmusic.html">Music</a></li>
       <li class="active"><a>Videos</a></li>
       <li class="active"><a>Merch</a></li>
       <li class="active"><a>Subscribe</a></li>
     </ul>
   </nav>
 
-  <a href="#">
+  <a href="machinegunkelly.html">
     <img class="logo" src="images\logo.png" alt="Logo Machine Gun Kelly">
   </a>
 
 
 <div class="socials">
-  <a href="#">links</a>
+  <a href="#"></a>
 </div>
 </header>
 
 <main>
 <body>
   <section>
-    <img class="komtnog" src="images\komtnog.png" alt="TicketsToMyDownfallPre-order">
+    <img class="komtnog" src="images\beginfoto2.jpg" alt="TicketsToMyDownfallPre-order">
+    <input type="button" class="knop" value="Listen Now">
   </section>
 
   <div class="Header2">
@@ -61,7 +62,7 @@
     <a href="#">
     <img class="images" src="images\foto2.gif" alt="Album + Sweater (Merch)"> </a>
 
-    <div class="tekstproduct">
+    <div class="tekstproduct2">
       <p>
         <a href="#">
           <div class="zwartetekst">
@@ -75,7 +76,7 @@
     <a href="#">
     <img class="images" src="images\foto3.gif" alt="Album + Wit T-shirt (Merch)"> </a>
 
-    <div class="tekstproduct">
+    <div class="tekstproduct3">
       <p>
         <a href="#">
           <div class="zwartetekst">
@@ -89,7 +90,7 @@
     <a href="#">
     <img class="images" src="images\foto4.gif" alt="Album + Boxer (Merch)"> </a>
 
-    <div class="tekstproduct1">
+    <div class="tekstproduct4">
       <p>
         <a href="#">
           <div class="zwartetekst">
@@ -99,6 +100,8 @@
         </a>
       </p>
     </div>
+
+    </section>
 
     <div class="allemerch">
       <a href="#">
@@ -178,8 +181,46 @@
 
 </div>
 
+<section class="footer">
+  <img class="footerimage" src="images\formulier.jpg" alt="formulier background foto">
 
-  </section>
+  <div class="Header3">
+    <h2> subscribe </h2>
+  </div>
+
+  <form class="formulier">
+  <label for="email">EMAIL ADDRESS <div class="rood">*</div> </label><br>
+  <input type="text" id="email" name="email" placeholder="email adress (required)"><br>
+
+  <label for="country">COUNTRY <div class="rood">*</div></label>
+    <select id="country" name="country">
+
+      <option value="USA">United States</option>
+      <option value="NL">The Netherlands</option>
+      <option value="BE">Belgium</option>
+    </select>
+
+    <p class="tekstfooter"> subscribe to email updates from: </p>
+
+    <div class="check1">
+  <input type="checkbox" id="MGK" value="checked" name="MACHINE GUN KELLY"
+         checked>
+  <label for="scales">MACHINE GUN KELLY</label>
+</div>
+<div class="check2">
+  <input type="checkbox" id="Interscope" value="checked" name="INTERSCOPE RECORDS">
+  <label for="horns">INTERSCOPE RECORDS</label>
+</div>
+  <input type="submit" value="Submit">
+  <p class="tekstfooter2"> By submitting this form, you agree to the
+    <a href="#">
+      <div class="zwartetekst2">
+        Universal Music Group Privacy Policy.
+      </div>
+    </a>
+  </p>
+</form>
+</section>
 
 <script src="js\machinegunkelly.js"></script>
 </body>

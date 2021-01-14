@@ -1,13 +1,16 @@
+/* dit geld voor alle webpaginas */
 html{
   background: white;
   text-align: center;
   display: block;
+  cursor: pointer;
 }
-
+/* geld voor de body van de website */
 body {
   padding-bottom: 0;
 }
 
+/* header a.k.a de navigatie bar, fixed zodat die met de pagina mee gaat */
 header {
   padding:0 .75em;
   background-color:white;
@@ -23,14 +26,12 @@ header {
 a {
   background-color: transparent;
   color: #111;
-  text-decoration: none;
   line-height: inherit;
   cursor: pointer;
 }
 /* alle links in de header */
-header a {
+header > a {
   color:black;
-  text-decoration:none;
 }
 
 header > a:first-of-type {
@@ -60,7 +61,7 @@ header .socials {
   margin-right: 1em;
 }
 /************/
-/* HET MENU */
+/* HET MENU   met behulp van: https://codepen.io/shooft/pen/BaKGKwm */
 /************/
 nav {
   order:-1;
@@ -120,9 +121,7 @@ nav.toonMenu ul {
   padding-top: 10em;
   font-family: 'Roboto Mono', sans-serif;
   font-weight: 500;
-  color: white;
   background-color: white;
-/*   background:rgba(black, 0.5);  zwarte background moet half doorzichtig zijn en tekst moet wit */
 }
 
 li {
@@ -141,7 +140,7 @@ li a {
 li.active a {
   font-weight:bold;
 }
-
+/* responsive */
 @media (min-width:64em) {
   nav {
     order:0;
@@ -162,38 +161,15 @@ li.active a {
   nav a {
     border:none;
   }
+}
+/* hieronder volgen veel classes aan die veel vormgeving zullen zijn voor de webpage */
 .logo{
   border: 0;
-}
+  margin-right: 35px;
 }
 .komtnog{
   height: 100%;
   width: 100%;
-}
-
-.listennow BUTTOOOOON!!!!!!!{
-  width: 235px;
-  height: 53px;
-  padding: 2px 10px 0;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -ms-flex-align: center;
-  align-items: center;
-  text-transform: uppercase;
-  color: #000;
-  font-size: 16px;
-  font-weight: 700;
-  background: 0 0;
-  z-index: 1;
-  border-radius: 25px;
-  position: relative;
-  transition: .3s ease-in-out all;
-  border: 2px solid #000;
-  letter-spacing: 0;
-  overflow: hidden;
-  margin: auto;
 }
 .Header2{
   width: 100%;
@@ -202,7 +178,6 @@ li.active a {
   font-size: 25.45px;
   letter-spacing: 5px;
   text-indent: 5px;
-  padding: 0px 0px 10px;
   animation: fade .8s ease-in-out 1 forwards;
   animation-delay: .5s;
   justify-content:space-between;
@@ -216,19 +191,28 @@ h2{
   border: 0;
   backface-visibility: hidden;
   width: 100%;
-  height: auto;
+  height: 100%;
   vertical-align: middle;
   box-shadow: 5px 5px 5px #ccc;
       -moz-box-shadow: 5px 5px 5px #ccc;
       -webkit-box-shadow: 5px 5px 5px #ccc;
       -khtml-box-shadow: 5px 5px 5px #ccc;
 }
+
+
+/* producten op de site */
 .producten{
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
   margin-left: 5%;
   margin-right: 5%;
 }
 
 .tekstproduct{
+  order: 1;
+  flex-basis: auto;
   font-family: 'Roboto Mono', sans-serif;
   font-size: 16px;
   padding-left: 0;
@@ -236,7 +220,29 @@ h2{
   padding-bottom: 4em;
   padding-top: 1.1em;
 }
-.tekstproduct1{
+.tekstproduct2{
+  order:2;
+  flex-basis: auto;
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 16px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 4em;
+  padding-top: 1.1em;
+}
+.tekstproduct3{
+  order:3;
+  flex-basis: auto;
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 16px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 4em;
+  padding-top: 1.1em;
+}
+.tekstproduct4{
+  order:4;
+  flex-basis: auto;
   font-family: 'Roboto Mono', sans-serif;
   font-size: 16px;
   padding-left: 0;
@@ -264,12 +270,7 @@ h2{
   padding-bottom: 13px;
 }
 
-.muzieksliderplaatjes{
-  width: 300px;
-  height: 300px;
-}
-
-/* SLIDERRR (bezig met eigen maken) https://codepen.io/mayurbirle/pen/eEevBZ/ */
+/* SLIDERRR (met hulp van) https://codepen.io/mayurbirle/pen/eEevBZ/ */
 
 #i1, #i2, #i3, #i4, #i5, #i6{ display: none;}
 
@@ -297,11 +298,12 @@ h2{
 		width: 12%;
 		height: inherit;
 		position: absolute;
-		top:0
+		top:0;
+    cursor: pointer;
 		z-index: 99;
 		transition: 0.3s;
-		cursor: pointer;
 		text-align: center;
+    margin-left: -15px;
 	}
 
 	.next{right:0;}
@@ -348,7 +350,7 @@ h2{
 	#i4:checked  ~  #nav_slide #dot4,
 	#i5:checked  ~  #nav_slide #dot5,
   #i6:checked  ~  #nav_slide #dot6
-	{ background-color: rgba(255,255,255,.9);}
+	{background-color: rgba(255,255,255,.9);}
 
 @keyframes scroll{
 	100%{opacity:1;}
@@ -371,4 +373,326 @@ h2{
 }
 @media screen  and(min-width: 970px){
 	.me{ display: none;}
+}
+
+/* footer met classes die vormgeving geven voor het formulier */
+.footer{
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px;
+  margin-left:-7px;
+  position: relative;
+
+
+}
+.footerimage{
+  width: 102%;
+
+}
+.Header3{
+    padding: 0 0 10px;
+    line-height: 1;
+    font-size: 25.45px;
+    letter-spacing: 5px;
+    text-indent: 5px;
+    position: absolute;
+    width: 100%;
+    margin-top: 45px;
+}
+.formulier{
+  margin-top: 150px;
+  position: absolute;
+  width: 100%;
+  text-align: left;
+  font-family: 'Roboto Mono';
+  font-weight: 300;
+  font-size: 18px;
+
+}
+.rood{
+  color: red;
+  display: inline;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  box-sizing: border-box;
+  border-top: 1px solid black;
+  font-family: 'Roboto Mono';
+  font-weight: 250;
+  font-size: 18px;
+  opacity: 100%;
+}
+input[type=submit] {
+  width: 235px;
+  height: 53px;
+  padding: 2px 10px 0;
+  color: black;
+  border-radius: 25px;
+  cursor: pointer;
+  border-bottom: 2px solid black;
+  text-transform: uppercase;
+  background: none;
+
+  font-family: 'Roboto Mono';
+  font-weight: 700;
+  font-size: 18px;
+
+  margin-top: 310px;
+  position: absolute;
+  transform: translateX(-155%);
+
+  background: linear-gradient(to right, white 50%, #2d2d2d 50%) left;
+  background-size: 200%;
+  transition: .5s ease-out;
+}
+
+input[type=submit]:hover {
+  background-position: right;
+  color: #fff;
+}
+
+.knop{
+  width: 235px;
+  height: 53px;
+  padding: 2px 10px 0;
+  color: black;
+  border-radius: 25px;
+  cursor: pointer;
+  border-bottom: 2px solid black;
+  text-transform: uppercase;
+  background: none;
+
+  font-family: 'Roboto Mono';
+  font-weight: 700;
+  font-size: 18px;
+
+  margin-top: 703px;
+  position: absolute;
+  -ms-transform: translateX(-75%);
+  transform: translateX(-145%);
+
+  background: linear-gradient(to right, white 50%, #2d2d2d 50%) left;
+  background-size: 200%;
+  transition: .5s ease-out;
+}
+
+input[type=button]:hover {
+  background-position: right;
+  color: #fff;
+}
+.tekstfooter{
+  font-family: 'Roboto Mono';
+  font-weight: 300;
+  font-size: 22px;
+
+  margin-top: 35px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.check1{
+  font-family: 'Roboto Mono';
+  font-weight: 700;
+  font-size: 22px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 75px;
+}
+.check2{
+  font-family: 'Roboto Mono';
+  font-weight: 700;
+  font-size: 22px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 115px;
+}
+.tekstfooter2{
+  font-family: 'Roboto Mono';
+  font-weight: 300;
+  font-size: 20px;
+
+  margin-top: 175px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.footerhref{
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 600;
+  padding-bottom: .2em;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+
+}
+.zwartetekst2{
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 600;
+  padding-bottom: .2em;
+  width: 100%;
+  text-align: center;
+  padding-top: 200px;
+}
+
+
+/* classes met vormgeving voor de 2e pagina */
+.legeruimte{
+  padding-top: 125px;
+}
+.header4{
+  width: 100%;
+  padding: 0 0 10px;
+  line-height: 1;
+  font-size: 17px;
+  letter-spacing: 5px;
+  text-indent: 5px;
+  animation: fade .8s ease-in-out 1 forwards;
+  animation-delay: .5s;
+  justify-content:space-between;
+  display: inline-block;
+}
+.knop2{
+  width: 235px;
+  height: 53px;
+  padding: 2px 10px 0;
+  color: black;
+  border-radius: 25px;
+  cursor: pointer;
+  border-bottom: 2px solid black;
+  text-transform: uppercase;
+  background: none;
+
+  font-family: 'Roboto Mono';
+  font-weight: 700;
+  font-size: 18px;
+
+  width: 55%;
+  height: 50px;
+
+  background: linear-gradient(to right, white 50%, #2d2d2d 50%) left;
+  background-size: 200%;
+  transition: .5s ease-out;
+}
+ol{
+  font-family: 'Roboto Mono';
+  font-weight: 600;
+  font-size: 18px;
+  position: relative;
+  margin-bottom: 50px;
+
+}
+.tracklist{
+  font-family: 'Roboto Mono';
+  font-weight: 300;
+  font-size: 18px;
+  text-align: left;
+}
+.images2{
+  border: 0;
+  backface-visibility: hidden;
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+  box-shadow: 5px 5px 5px #ccc;
+  -moz-box-shadow: 5px 5px 5px #ccc;
+  -webkit-box-shadow: 5px 5px 5px #ccc;
+  -khtml-box-shadow: 5px 5px 5px #ccc;
+  font-family: 'Roboto Mono';
+  font-weight: 300;
+  font-size: 18px;
+
+}
+
+/* https://codepen.io/nikoso/pen/WNrEePJ */
+
+/* Met behulp van de codepen hierboven heb ik een animatie weten te maken die tekst erin slide + het vervagen van de background.
+Ik heb de code eigen gemaakt en snap het, daarom gebruik ik het */
+
+/* class: De vierkante box, de background */
+.item{
+  width: 350px;
+  height: 350px;
+  position: relative;
+  display: inline-block;
+  margin: 1% 2% 1% 0%;
+  overflow: hidden;
+  box-shadow: 2px 3px 10px #444444;
+
+}
+/* wat er over de background getransitioneerd word: (witte background) */
+.item .overlay{
+  color: #000;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: all 0.5s ease;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background-color:rgba(255, 255, 255, 0.8)
+}
+
+/* effect-clean*/
+.clean .overlay span:nth-child(1){
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  font-size: 80px;
+  font-family: 'Roboto Mono';
+  font-weight: 300;
+  font-size: 25px;
+  color: black;
+  transform: translateX(-50%);
+}
+
+.clean .overlay span:nth-child(2){
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 17px;
+  transform: translateX(-50%);
+}
+
+.clean .overlay span:nth-child(3){
+  height: 3px;
+  position: absolute;
+  top: 60%;
+  left: 0;
+}
+
+.clean .overlay:hover{
+  opacity: 3;
+}
+
+.clean .overlay:hover span:nth-child(1){
+  animation: slide 0.4s;
+}
+
+.clean .overlay:hover span:nth-child(2){
+  animation: slide 0.7s;
+}
+
+.clean .overlay:hover span:nth-child(3){
+  animation: line 0.5s forwards;
+}
+
+/* keyframes om te bepalen van waar tot waar de tekst gaat en land */
+@keyframes slide{
+  0%   {transform:translateX(-10%);}
+  100% {transform:translateX(-50%);}
+}
+
+@keyframes line{
+  0%   {width: 0;}
+  100% {width: 50%}
 }
