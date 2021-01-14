@@ -23,18 +23,18 @@
 
 **Screenshot(s):**
 
-Homepage:
-homepage foto scherm met button
+Homepage: <br>
+<img src="fotos voortgangsgesprek 1 (week3)\foto7.png" width="300px" alt="music page"> <br>
 <img src="fotos voortgangsgesprek 1 (week3)\foto3.png" width="300px" alt="music page"> <br>
 <img src="fotos voortgangsgesprek 1 (week3)\foto4.png" width="300px" alt="music page"> <br>                                     
 <img src="fotos voortgangsgesprek 1 (week3)\foto5.png" width="300px" alt="music page"> <br>
 <img src="fotos voortgangsgesprek 1 (week3)\foto6.png" width="300px" alt="music page"> <br>
-footer foto
+<img src="fotos voortgangsgesprek 1 (week3)\foto11.png" width="300px" alt="music page"> <br>
 
-Music page:
-
-
-
+Music page: <br>
+<img src="fotos voortgangsgesprek 1 (week3)\foto8.png" width="300px" alt="music page"> <br>
+<img src="fotos voortgangsgesprek 1 (week3)\foto9.png" width="300px" alt="music page"> <br>
+<img src="fotos voortgangsgesprek 1 (week3)\foto10.png" width="300px" alt="music page"> <br>
 
 ## Voortgang 3 (week 6)
 
