@@ -13,7 +13,7 @@
 8. https://codepen.io/shooft/pen/BaKGKwm Navigatie Balk
 9. https://codepen.io/anna_blok/pen/eYYRbQY Slider
 10. https://fonts.google.com/
-11. https://codepen.io/nikoso/pen/WNrEePJ
+11. https://codepen.io/nikoso/pen/WNrEePJ Animatie voor op de cover
 
 
 
